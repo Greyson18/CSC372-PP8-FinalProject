@@ -1,0 +1,12 @@
+Name: Amy
+Address: Celadon City
+GPA: 3.5
+Name: Josh
+Address: Violet City
+GPA: 2.5
+Name: Peter
+Address: Saffron City
+GPA: 4.0
+Name: Tai
+Address: Eterna City
+GPA: 2.7
